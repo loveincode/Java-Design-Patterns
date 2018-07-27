@@ -1,4 +1,4 @@
-package com.loveincode.strategy;
+package com.loveincode.Behavioral.strategy;
 
 /**
  * 

@@ -1,4 +1,4 @@
-package com.loveincode.adapter;
+package com.loveincode.Structural.adapter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.loveincode.adapter;
+package com.loveincode.Structural.adapter;
 
 /**
  * The Captain uses {@link RowingBoat} to sail. <br>

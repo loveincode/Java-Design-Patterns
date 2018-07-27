@@ -1,4 +1,4 @@
-package com.loveincode.strategy;
+package com.loveincode.Behavioral.strategy;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

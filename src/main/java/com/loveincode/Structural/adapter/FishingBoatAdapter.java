@@ -1,4 +1,4 @@
-package com.loveincode.adapter;
+package com.loveincode.Structural.adapter;
 /**
  *
  * Adapter class. Adapts the interface of the device ({@link FishingBoat}) into {@link RowingBoat}

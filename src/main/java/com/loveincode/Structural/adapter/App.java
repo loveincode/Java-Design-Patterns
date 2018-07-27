@@ -1,4 +1,4 @@
-package com.loveincode.adapter;
+package com.loveincode.Structural.adapter;
 
 /**
  * An adapter helps two incompatible interfaces to work together. This is the real world definition
